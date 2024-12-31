@@ -14,7 +14,8 @@ GoVideo更新日志:
 - 4.边下边播
 - 5.订阅源
 
-![GoVideo](https://pic1.imgdb.cn/item/67739e76d0e0a243d4ed063a.png)
+![Govideo](https://github.com/user-attachments/assets/f1e5c2fb-10d7-43a1-9d85-58bfcd0c8ba4)
+
 
 
 示例订阅:
