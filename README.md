@@ -27,6 +27,8 @@ GoVideo更新日志:
 
 https://github.com/user-attachments/assets/3a3b8200-b6db-4b02-8317-e5f6fe6c6d20
 
+![image](https://github.com/user-attachments/assets/be6f11b1-e1fc-428f-a090-48ea5c8cc819)
+
 
 
 示例订阅:
