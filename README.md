@@ -5,6 +5,13 @@
 
 设置 -> 订阅源管理 -> 添加订阅源 -> + -> 输入链接 -> 确定 ->更新
 
+V1.1.1
+GoVideo更新日志:
+
+- 1.修复失效弹幕源
+- 2.播放器支持接收DLNA投屏
+- 3.修复一些bug
+
 V1.0.0 
 GoVideo更新日志:
 
@@ -14,7 +21,11 @@ GoVideo更新日志:
 - 4.边下边播
 - 5.订阅源
 
-![Govideo](https://github.com/user-attachments/assets/f1e5c2fb-10d7-43a1-9d85-58bfcd0c8ba4)
+![image](https://img.pub/p/a90675aa6101f67d05cf.gif)
+
+
+
+https://github.com/user-attachments/assets/3a3b8200-b6db-4b02-8317-e5f6fe6c6d20
 
 
 
